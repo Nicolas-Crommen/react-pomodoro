@@ -1,3 +1,7 @@
 /* A container for the Pomodoro app */
 
-console.log('Hello World !')
+import React from "react";
+import ReactDOM from "react-dom";
+import Pomodoro from "./components/Pomodoro";
+
+ReactDOM.render(<Pomodoro />, document.querySelector("#app"));
