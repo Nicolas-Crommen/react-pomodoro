@@ -1,0 +1,19 @@
+{
+  "name": "react-pomodoro",
+  "version": "1.0.0",
+  "description": "> 🛰️ A handful pomodoro counter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private" : true, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Crommen/react-pomodoro.git"
+  },
+  "author": "Nicolas Crommen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Crommen/react-pomodoro/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Crommen/react-pomodoro#readme"
+}
