@@ -1,1 +1,5 @@
 react-pomodoro.code-workspace
+node_modules
+.cache
+dist
+
